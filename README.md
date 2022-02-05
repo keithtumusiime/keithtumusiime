@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keithtumusiime
-- 👀 I’m interested in Mobile Application and Web Development
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any project to enhance my skills and sharpen my career as a programmer
 - 📫 How to reach me E:. keithtumusiime6@gmail.com, P:.+256770786064
